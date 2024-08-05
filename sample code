@@ -1,0 +1,7 @@
+pipeline{
+stages{ 'build'
+steps{
+echo 'building a pipeline'
+}
+}
+}
